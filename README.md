@@ -1,2 +1,2 @@
 # Pointer-Generator-Networks
-A pipeline that summarizes text using a hybrid model of extractive and abstractive text summarization techniques.
+A pipeline that summarizes text using a hybrid model of extractive and abstractive text summarization techniques. Implementation of the Pointer Generator Network in Tensorflow.
